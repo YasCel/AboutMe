@@ -12,9 +12,14 @@ h2 {
 
 p {
   color: #717171;
-
+ font-family: 'Crete Round', serif;
 }
 
 h3 {
   color: #c5adff;
+}
+
+ul, ol {
+  font-family: 'Crete Round', serif;
+  color: #717171;
 }
