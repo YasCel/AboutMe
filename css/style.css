@@ -1,8 +1,13 @@
 h1 {
- color: #FF6F69;
+ color: #ffc5ad;
  text-align: center;
 }
 
+h2 {
+  color: #adffc5;
+  text-align: center;
+}
+
 h3 {
-  color: #ffde61;
+  color: #c5adff;
 }
