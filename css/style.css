@@ -1,7 +1,10 @@
 h1 {
  color: #ffc5ad;
  text-align: center;
+ font-weight: bold;
  font-family: 'Della Respira', serif;
+ font-size: 20px;
+ line-height: 30px;
 }
 
 h2 {
