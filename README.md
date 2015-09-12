@@ -1,12 +1,12 @@
 #
 
-##### _Exercise 1 for EpiCodus, 9/11/2011
+##### Exercise 1 for EpiCodus, 9/11/2011
 
-#### By _Yasemin Celik
+#### By Yasemin Celik
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+ This is a webpage using HTML and CSS to display who I am.
 
 ## Setup
 
@@ -14,11 +14,10 @@ Clone this repository.
 
 Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:
 
-
+https://github.com/YasCel/AboutMe
 
 Then open your web browser of choice to localhost:8000
 
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
 
 ## Technologies Used
 
@@ -26,8 +25,6 @@ HTML
 CSS
 
 ### Legal
-
-*{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
 
 Copyright (c) 2015 **Yasemin Celik**
 
