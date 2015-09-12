@@ -11,22 +11,35 @@ h2 {
   color: #adffc5;
   text-align: center;
   font-family: 'Della Respira', serif;
+  font-weight: bold;
 }
 
 p {
-  color: #717171;
+ color: #717171;
+ text-align: center;
  font-family: 'Crete Round', serif;
 }
 
 h3 {
   color: #c5adff;
+
 }
 
 ul, ol {
   font-family: 'Crete Round', serif;
   color: #717171;
+  font-size: 20px;
+  line-height: 30px;
 }
 img {
   height: 240px;
   width: auto;
+}
+
+a:link {
+    color: #FF0000;
+}
+
+a:hover {
+    color: #FF00FF;
 }
