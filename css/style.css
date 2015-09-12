@@ -23,3 +23,7 @@ ul, ol {
   font-family: 'Crete Round', serif;
   color: #717171;
 }
+img {
+  height: 240px;
+  width: auto;
+}
