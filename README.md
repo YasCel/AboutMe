@@ -16,7 +16,7 @@ Open a simple HTTP server in the top level of the cloned directory. For a mac, r
 
 https://github.com/YasCel/AboutMe
 
-github pages 
+github pages http://yascel.github.io/AboutMe
 
 
 ## Technologies Used
