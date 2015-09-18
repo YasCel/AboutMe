@@ -1,6 +1,6 @@
 #
 
-##### Exercise 1 for EpiCodus, 9/11/2015
+##### Intro for Programming - Exercise 1 for EpiCodus, 9/11/2015
 
 #### By Yasemin Celik
 
@@ -16,7 +16,7 @@ Open a simple HTTP server in the top level of the cloned directory. For a mac, r
 
 https://github.com/YasCel/AboutMe
 
-Then open your web browser of choice to localhost:8000
+github pages 
 
 
 ## Technologies Used
